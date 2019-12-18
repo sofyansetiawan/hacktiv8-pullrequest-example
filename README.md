@@ -1,4 +1,4 @@
 ## test-hacktiv
 ini project coba git untuk lecture
 
-by Sofyan Setiawan
+by Sofyan Setiawan (2019)
