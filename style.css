@@ -2,3 +2,8 @@ body{
     background: greenyellow;
     font-size: 10px;
 }
+
+h3{
+    background-color: aqua;
+    color: beige;
+}
